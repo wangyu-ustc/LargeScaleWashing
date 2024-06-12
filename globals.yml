@@ -1,0 +1,18 @@
+---
+  # Result files
+  RESULTS_DIR: "results"
+
+  # Data files
+  DATA_DIR: "data"
+  STATS_DIR: "data/stats"
+  KV_DIR: "data/kvs_expand"
+  KV_TRUE_DIR: 'data/kvs_expand_true'
+  PRED_DIR: 'data/preds'
+  EDIT_NONE_KV_DIR: 'data/edit_none_kvs'
+  EDIT_NONE_KV_EXPAND_DIR: 'data/edit_none_kvs_expand'
+
+  # Hyperparameters
+  HPARAMS_DIR: "hparams"
+
+  # Remote URLs
+  REMOTE_ROOT_URL: "https://rome.baulab.info"
